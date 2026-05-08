@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "27Kqc2URwW4=",
+  "success": true,
+  "projectFilePath": "/home/drew/.local/share/Terraria/tModLoader/ModSources/Terrafish/Terrafish.csproj",
+  "expectedPackageFiles": [
+    "/home/drew/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

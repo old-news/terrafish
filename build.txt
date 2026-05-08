@@ -1,0 +1,3 @@
+displayName = Capture World Data
+author = drew
+version = 0.1
